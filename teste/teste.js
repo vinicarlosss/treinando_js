@@ -29,3 +29,5 @@ function limpar(){
     }
 }
 
+const BOTAO = document.querySelector("button");
+BOTAO.addEventListener("click",roletar);
